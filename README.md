@@ -1,4 +1,4 @@
-# Do Transformers Need Glasses?
+# Do Visual Transformers Need CNN Glasses?
 ## A Small Study of Patch and Convolutional Tokenizers
 
 An educational PyTorch project that compares a small patch-based Vision
